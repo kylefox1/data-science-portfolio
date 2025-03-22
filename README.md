@@ -13,7 +13,7 @@ Please refer to the table of contents below for the projects.
 
 # DAO Discussion Forums: Exploratory Toxicity and Bridging Analysis of Radicle Forum Posts
 
-In this project, I collected forum posts from Radicle's governance forum with Boardroom's Governance API and conducted an exploratory toxicity and bridging attribute analysis of Radicle forum posts.
+In this project, I collected forum posts from Radicle's governance forum with Boardroom's Governance API and conducted an exploratory toxicity and bridging attribute analysis of Radicle forum posts with Google's Perspective API.
 
 I sought to gain an initial understanding of how *civil* conversations are in the Radicle governance forum, and a starting point for future research in assessing civility in DAO governance forums.
 
