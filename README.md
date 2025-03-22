@@ -9,6 +9,7 @@ Please refer to the table of contents below for the projects.
 # Projects
 
 1. [DAO Discussion Forums: Exploratory Toxicity and Bridging Analysis of Radicle Forum Posts]()
+2. [Polymarket in 2024]()
 
 
 # DAO Discussion Forums: Exploratory Toxicity and Bridging Analysis of Radicle Forum Posts
@@ -41,4 +42,7 @@ For access to the datasets, notebooks, and other artifacts associated with this 
 
 ---
 
+# Polymarket in 2024
+
+TBA
 
