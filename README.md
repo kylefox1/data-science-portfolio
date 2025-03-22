@@ -26,6 +26,7 @@ Tools:
 - Google's Perspective API
 - Boardroom's Governance API
 - Beautiful Soup 4
+- Requests
 
 Areas:
 
