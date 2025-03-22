@@ -32,7 +32,9 @@ Areas:
 - Natural Language Processing (NLP)
 - Social Media Analysis
 
-For access to the datasets and notebook, please click [here]().
+You can find the article summarizing the project [here](https://ledgerback.pubpub.org/pub/j7pwwxu9/release/2)
+
+For access to the datasets, notebooks, and other artifacts associated with this project, please click [here]().
 
 ![](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6InVsc2t4ajBmL25ld3Bsb3QgKDcwKS0zMTczNjUzOTcyOTE2OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE2MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX19fQ==)
 
